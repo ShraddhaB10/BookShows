@@ -1,0 +1,42 @@
+.container
+{
+    background-color: rgb(83, 209, 161);
+}
+.details{
+    background-color: rgb(8, 63, 66);;
+    margin:20px;
+    width: 60vw;
+    border-radius: 20px;;
+    border :black solid 3px;
+}
+.name
+{
+    font-size:4.5vh;
+    color:white;
+    padding-top:5%;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+td,tr{
+    padding: 1vh 6vw;
+    text-align : center;
+    box-sizing:content-box;
+    width:30vw;
+    font-size: 2.2vh;
+    color: white;
+
+}
+ .subcontainer table{
+    margin: auto;
+    border: 0px black solid;
+    border-radius: 20px;
+    
+}
+.btn-first{
+    padding:2vh 4vw;
+    background-color: rgb(241, 241, 241);
+    border: rgb(0, 0, 0) 2px solid;
+    color:rgb(0, 0, 0);
+    border-radius: 20px;
+    font-size:18px;
+}
